@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- * puts - "prints Programming is like building a multilingual puzzle"
+ * main - Entry point
  *
- * Return:0 if it prints exactly the string
+ * Return: 0 
  */
 
 int main(void)
