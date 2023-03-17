@@ -3,7 +3,7 @@
 #include <stdio.h>
 /**
  * main - Entry point
- * Description: Checks if the number stored in the variable is positive or negative
+ * Description: Checks if the number in the variable is positive or negative
  * Return: 0
  */
 int main(void)
@@ -23,6 +23,6 @@ int main(void)
 	else
 	{
 		printf("%d is negative\n", n);
-	}	
+	}
 	return (0);
 }
