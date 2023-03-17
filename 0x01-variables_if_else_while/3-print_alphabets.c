@@ -5,14 +5,18 @@
  */
 int main(void)
 {
-	int n = 65;
+	int n = 97;
+	int i = 65;
 
 	while (n <= 122)
 	{
 		putchar(n);
 		n++;
-		putchar(n+32);
-		n++;
+	}
+	while (i <= 90)
+	{
+		putchar(i);
+		i++;
 	}
 	putchar('\n');
 	return (0);
