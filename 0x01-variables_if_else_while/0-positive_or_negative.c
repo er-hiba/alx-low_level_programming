@@ -3,7 +3,8 @@
 #include <stdio.h>
 /**
  * main - Entry point
- * Return : 0
+ * Description: Checks if the number stored in the variable is positive or negative
+ * Return: 0
  */
 int main(void)
 {
