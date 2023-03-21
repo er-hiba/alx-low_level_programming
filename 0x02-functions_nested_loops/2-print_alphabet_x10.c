@@ -14,6 +14,10 @@ void print_alphabet_x10(void)
 		{
 			putchar(letter);
 		}
+		if i > 10
+		{
+			break;
+		}
 	putchar('\n');
 	}
 }
